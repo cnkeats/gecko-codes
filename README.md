@@ -13,3 +13,6 @@ From the mind of [Ginger](https://twitter.com/SsbmGinger/status/1470532447075024
 Inspired by [Drephen](https://twitter.com/Drephen/status/1476395174695682049) - a game mode where L, R, Z, X, Y, A, and the C-stick are disabled. 2 stocks, 5 minutes. All combos will be as Sakurai intended!
 
 <br>
+
+## [3 Stocks 5 Minutes](3-stocks-5-minutes.ini) <sub><sup>v1.0</sup></sub>
+3 stocks, 5 minutes.
