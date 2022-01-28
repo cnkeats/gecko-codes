@@ -2,6 +2,8 @@
 
 This repository is for custom gecko codes I've made! Feel free to send me requests via [Twitter](https://twitter.com/cnkeats) or Discord <sub><sup>(Krohnos#1254).<sup><sub>
 
+Unless otherwise stated, all codes are mutually exclusive - contact me if you want a specific bombo.
+
 <br>
 
 ## [No Ego Mode](no-ego-mode.ini) <sub><sup>v1.1</sup></sub>
@@ -21,3 +23,8 @@ Inspired by [Drephen](https://twitter.com/Drephen/status/1476395174695682049) - 
 
 ## [99 Stocks, No Timer](99-stocks-no-timer.ini) <sub><sup>v1.1</sup></sub>
 Requested by [PGH Carroll](https://twitter.com/OhgirlNC) for online [99-Stock Interviews](https://www.youtube.com/playlist?list=PLeGlnaSlOss2bVIJXYc9d_KSwciMWc1ki).
+
+<br>
+
+## [Rollback Items](rollback-items.ini) <sub><sup>v1.0</sup></sub>
+Enables all items for rollback netplay on `Medium` frequency.
