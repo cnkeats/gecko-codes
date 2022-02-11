@@ -11,8 +11,8 @@ From the mind of [Ginger](https://twitter.com/SsbmGinger/status/1470532447075024
 
 <br>
 
-## [B Button Mode](b-button-mode.ini) <sub><sup>v1.1</sup></sub>
-Inspired by [Drephen](https://twitter.com/Drephen/status/1476395174695682049) - a game mode where L, R, Z, X, Y, A, and the C-stick are disabled. 2 stocks, 5 minutes. All combos will be as Sakurai intended!
+## [B Button Mode](b-button-mode.ini) <sub><sup>v1.2</sup></sub>
+Inspired by [Drephen](https://twitter.com/Drephen/status/1476395174695682049) - a game mode where L, R, Z, A, and the C-stick are disabled. 2 stocks, 5 minutes. All combos will be as Sakurai intended!
 
 <br>
 
