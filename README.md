@@ -16,6 +16,11 @@ Inspired by [Drephen](https://twitter.com/Drephen/status/1476395174695682049) - 
 
 <br>
 
+## [No X / Y](no-xy.ini) <sub><sup>v1.0</sup></sub>
+Removes X and Y to force tap-jumping. Combine with a code that turns off tap-jumping to disable jumping altogether!
+
+<br>
+
 ## [3 Stocks, 5 Minutes](3-stocks-5-minutes.ini) <sub><sup>v1.0</sup></sub>
 3 stocks, 5 minutes.
 
