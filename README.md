@@ -6,6 +6,11 @@ Unless otherwise stated, all codes are mutually exclusive - contact me if you wa
 
 <br>
 
+## [Mango Axe Wednesday](mango-axe-wednesday.ini) <sub><sup>v1.0</sup></sub>
+Mango Axe Wednesday for rollback! Items on at High frequency with Cloaking Device, Heart Container, Maxim Tomato, Starman, and Food disabled. Only illegal stages chosen when picking a random stage. 2 stocks. 2 minutes. Unfortunately does not include Sudden Death.
+
+<br>
+
 ## [No Ego Mode](no-ego-mode.ini) <sub><sup>v1.1</sup></sub>
 From the mind of [Ginger](https://twitter.com/SsbmGinger/status/1470532447075024897) - a game mode where you and your opponent each have a random number of stocks, 1 to 6, and you can't see your current stock count. Throw the ego away because you might not have another stock to sacrifice!
 
