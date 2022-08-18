@@ -26,6 +26,11 @@ Removes X and Y to force tap-jumping. Combine with a code that turns off tap-jum
 
 <br>
 
+## [Online Break The Targets](online-stadium.ini) <sub><sup>v0.2 EXTREMELY EXPERIMENTAL</sup></sub>
+WIP code for playing BTT via Slippi Netplay. Several known issues such as some stages having bad spawn points.
+
+<br>
+
 ## [99 Stocks, No Timer](99-stocks-no-timer.ini) <sub><sup>v1.1</sup></sub>
 Requested by [PGH Carroll](https://twitter.com/OhgirlNC) for online [99-Stock Interviews](https://www.youtube.com/playlist?list=PLeGlnaSlOss2bVIJXYc9d_KSwciMWc1ki).
 
@@ -43,3 +48,4 @@ Enables all items for rollback netplay on `Medium` frequency.
 
 ## [3 Stocks, 5 Minutes](3-stocks-5-minutes.ini) <sub><sup>v1.0</sup></sub>
 3 stocks, 5 minutes.
+
