@@ -31,6 +31,11 @@ WIP code for playing BTT via Slippi Netplay. Several known issues such as some s
 
 <br>
 
+## [Rishi's Jungle Jam](rishis-jungle-jam.ini) <sub><sup>v1.0</sup></sub>
+Sets the rules to [Rishi's Jungle Jam](https://www.youtube.com/watch?v=-SA_U6JoA7g) - 3 stocks, 8 minutes, Starman as the only item on Very Low frequency. Applies to every stage because I am lazy!
+
+<br>
+
 ## [99 Stocks, No Timer](99-stocks-no-timer.ini) <sub><sup>v1.1</sup></sub>
 Requested by [PGH Carroll](https://twitter.com/OhgirlNC) for online [99-Stock Interviews](https://www.youtube.com/playlist?list=PLeGlnaSlOss2bVIJXYc9d_KSwciMWc1ki).
 
