@@ -54,3 +54,7 @@ Enables all items for rollback netplay on `Medium` frequency.
 ## [3 Stocks, 5 Minutes](3-stocks-5-minutes.ini) <sub><sup>v1.0</sup></sub>
 3 stocks, 5 minutes.
 
+<br>
+
+## [Bomb Rain](bomb-rain.ini) <sub><sup>v1.0</sup></sub>
+Makes bombs rain from the sky as they do in Sudden Death.
