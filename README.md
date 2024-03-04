@@ -1,8 +1,10 @@
 # Gecko Codes by Krohnos
 
-This repository is for custom gecko codes I've made! Feel free to send me requests via [Twitter](https://twitter.com/cnkeats) or Discord <sub><sup>(Krohnos#1254).<sup><sub>
+This repository is for custom gecko codes I've made! Feel free to send me requests via [Twitter](https://twitter.com/cnkeats) or Discord <sub><sup>(@cnkeats).<sup><sub>
 
 Unless otherwise stated, all codes are mutually exclusive - contact me if you want a specific combo.
+
+If you use these codes, it is likely that your replay will not work! Disable the code when you aren't using it to prevent it from affecting other replays.
 
 <br>
 
