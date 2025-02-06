@@ -60,3 +60,8 @@ Enables all items for rollback netplay on `Medium` frequency.
 
 ## [Bomb Rain](bomb-rain.ini) <sub><sup>v1.0</sup></sub>
 Makes bombs rain from the sky as they do in Sudden Death.
+
+<br>
+
+## [Poké Balls only](poke-balls-medium.ini) <sub><sup>v1.0</sup></sub>
+Enables Poké Balls as the only item on `Medium` frequency. Also available for [High](poke-balls-high.ini), [Very High](poke-balls-veryhigh.ini), and [Stupid High](poke-balls-stupidhigh.ini).
